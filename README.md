@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hafeez0
-- 👀 I’m interested in 
+- 👀 I’m interested in Cloud Technnology
 - 🌱 I’m currently learning AWS solution arcitect
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
